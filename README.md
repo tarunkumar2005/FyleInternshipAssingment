@@ -6,4 +6,4 @@ https://fyleprojectbytarun.netlify.app/
 
 or
 
-https://fyleproject.tarun-kumar.tech/
+https://fyleprojectbytarun.tarun-kumar.tech/
