@@ -1,0 +1,7 @@
+.imageCont:hover .popup {
+  transform: translateY(0);
+}
+
+.popup {
+  transform: translateY(100%);
+}

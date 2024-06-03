@@ -1,0 +1,9 @@
+.carousel-container {
+  display: flex;
+  width: 400%; /* 4 images per slide */
+  transition: transform 0.5s ease;
+}
+
+.imageCont {
+  flex: 1 0 24%; /* 4 images per slide */
+}
